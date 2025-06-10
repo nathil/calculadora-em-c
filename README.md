@@ -1,1 +1,2 @@
-Projeto de calculadora simples em C. 
+## Projeto Calculadora
+Projeto calculadora simples em C.
